@@ -1,0 +1,11 @@
+1. Import the .sql file into your MySQL server.
+
+2. Replace DB credentials in DBConnection.java.
+
+3. Compile all Java files:
+
+    javac *.java
+
+4. Run the application:
+
+    java StudentManagementApp
